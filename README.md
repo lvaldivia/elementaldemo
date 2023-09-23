@@ -10,6 +10,9 @@
 ![paso5](https://github.com/lvaldivia/elementaldemo/assets/3209183/8c7a8c4b-0047-4c52-a12c-fe45f9076a45)
 6. **Crear un Channel**
    ![image](https://github.com/lvaldivia/elementaldemo/assets/3209183/6fda06f1-8631-4006-affa-1978669f21e1)
+7. **Colocaar Nombre y crear un role**
+   ![image](https://github.com/lvaldivia/elementaldemo/assets/3209183/677c579a-6dac-42a8-b7fd-56960f0bbc8f)
+
 
 
 
